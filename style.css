@@ -31,4 +31,6 @@ h1{
     clear: both;
   }
 
-
+input{
+    border-radius: 20px;
+}
